@@ -1,8 +1,8 @@
 # An Opinionated Guide to Memorization
 
 This guide is opinionated in the sense that many choices have been made specifically to minimize conflict
-between the various subsystems. Also, it's biased towards certain practical requirements of magicians and
-specifically does not take into consideration the needs of the memory competition.
+between the various subsystems. Also, it does not take into consideration the needs of the memory
+competition. Instead we focus on the more practical problems of the regular person... and magicians.
 
 ## The Mnemonic Major System
 
