@@ -668,6 +668,7 @@ these words into a visual and memorable story.
 #### Places 1-50
 
 | 1415   | 926   | 53   | 58   | 979    |  32  | 384   | 626    |  43 | 38    |
+| ------ | ----- | ---- | ---- | ------ |  --- | ----- | ------ | --- | ----- |
 | turtle | banjo | lime | wolf | pickup | moon | mover | change | ram | movie |
 
 | 327  | 950     | 28    | 841    | 971    | 69   | 39  | 93   | 7510   |
