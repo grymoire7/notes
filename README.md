@@ -1,2 +1,2 @@
-# notes
-A collection of notes
+# Notes
+A collection of notes.
