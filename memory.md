@@ -1,9 +1,11 @@
 # An Opinionated Guide to Memorization
 
 This guide is opinionated in the sense that many choices have been made specifically to minimize conflict
-between the various subsystems. Also, 
+between the various subsystems. Also, it's biased towards certain practical requirements of magicians and
+specifically does not take into consideration the needs of the memory competition.
 
 ## The Mnemonic Major System
+
 Simply put, the Mnemonic Major System relates phonetic sounds to the ten decimal digits zero through nine.
 For me, learning this system is fundamental to any memory work involving a number.  Card positions, dates,
 digits of pi, birthdays, etc.
@@ -22,6 +24,7 @@ digits of pi, birthdays, etc.
 | 9     | p, b      | hard p/b, as in pub, puppy, or bubble    |
 
 ## Number peg system
+
 It is useful to have standard/peg words for the first 100 or so numbers to
 minimize mental faltering when connecting strings of numbers together.
 Here we use the mnemonic major system to assign nouns to numbers.  Special care
@@ -175,8 +178,8 @@ list, some have been changed to favor something more visual and/or concrete.
 </tr>
 </table>
 
-
 ## Card system
+
 These were originally based on magician and memory expert Harry Lorrayne's
 system for cards.  I've typically associated these with the number system to
 memorize a particular card stack, like the Arsonson stack. For magicians,
@@ -215,6 +218,7 @@ letter and tries to rhyme with the suit name.
 
 
 ## Letters
+
 As a kid I began playing a game where I memorized the license plate number our
 car happened to be following down the road.  As these often included letters,
 it was necessary to have mnemonics for those as well.  To keep things clear
@@ -255,6 +259,7 @@ confident report of the license plate number from a diminutive witness.  The
 car was easily found a few minutes later parked just a few blocks away.
 
 ## PAO (Person-Action-Object)
+
 A PAO system is most ofen used to memorize a long set of numbers or decks of
 playing cards in a memory competition. This PAO system is based on the Major 
 number system.
@@ -560,6 +565,7 @@ greet them by name weeks later had a strong and lasting effect.
 
 
 ## Card stacks
+
 Our primary application of the card system presented above 
 is the memorization of a pre-arranged deck of cards for magical purposes. That
 is, you can name the card given the position in the deck (number) and the
@@ -650,7 +656,9 @@ to minimize the distance from the first to last card of the quartet.
 | Queens | Diamonds(5, 22, 2)   | dream owl nun knee
 | Kings  | Hearts(13, 11, 12)   | hinge tomb tooth tin
 
+
 ## Digits of Pi
+
 For convenience, each section below contains fifty digits. The following associative mnemonics for pi
 were worked out on a flight from Chicago to Las Vegas.  See the Lorrayne book for details on associating 
 these words into a visual and memorable story.
@@ -676,4 +684,7 @@ these words into a visual and memorable story.
 #### More
 8214808651328230664709384460955058223172535940812
 
+#### References
+
+* [One million digits of pi](https://piday.co/million/)
 
