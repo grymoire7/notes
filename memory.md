@@ -1,10 +1,7 @@
----
-title: An Opinionated Guide to Memorization
----
+# An Opinionated Guide to Memorization
+
 This guide is opinionated in the sense that many choices have been made specifically to minimize conflict
 between the various subsystems. Also, 
-
-[[_TOC_|levels = 2]]
 
 ## The Mnemonic Major System
 Simply put, the Mnemonic Major System relates phonetic sounds to the ten decimal digits zero through nine.
@@ -487,72 +484,79 @@ greet them by name weeks later had a strong and lasting effect.
 
 ### Girl first names – Meaning – Mnemonics
 
-| Emily     |  My lily, Email,
-| Isabella  |  It’s a bell, Is a belly, She’s a bell,
-| Emma      |  M&M candy, Hem a skirt,
-| Ava       |  Aviator – Bird, Wing, A vole,
-| Madison   |  Mad at some,
-| Sophia    |  Soft, Softies, Sophomore, Soporific,
-| Olivia    |  Olive, Olive with a red pepper,
-| Abigail   |  A big nail, A big ale, A big girl, A big gale,
-| Hannah    |  Hay nany nany naw, Hand on, Hand,
-| Elizabeth |  A lizard bath, A lizard breath,
-| Samantha  |  Say man, shaman,
-| Madeline  |  Made a line, Made of lime, Maid of mine,
-| Addison   |  Add a son,
-| Hailey    |  Hail, Hail hail the gangs all here,
-| Lily      |  Lily, Lily Marlene,
-| Kaitlyn   |  Cat, Cat limp,
-| Chloe     |  Claw, Clawy, Clueless, Low E,
-| Riley     |  Reel, Fishing reel,
-| Mia       |  Missing in action, Me first,
-| Ella      |  The one, El La,
-| Kaylee    |  K L M N, Sailing,
-| Sarah     |  Que Sara Sara, Say rah,
+| First name | Mnemonic |
+| ---------- | -------- |
+| Emily      |  My lily, Email |
+| Isabella   |  It’s a bell, Is a belly, She’s a bell |
+| Emma       |  M&M candy, Hem a skirt |
+| Ava        |  Aviator – Bird, Wing, A vole |
+| Madison    |  Mad at some |
+| Sophia     |  Soft, Softies, Sophomore, Soporific |
+| Olivia     |  Olive, Olive with a red pepper |
+| Abigail    |  A big nail, A big ale, A big girl, A big gale |
+| Hannah     |  Hay nany nany naw, Hand on, Hand |
+| Elizabeth  |  A lizard bath, A lizard breath |
+| Samantha   |  Say man, shaman |
+| Madeline   |  Made a line, Made of lime, Maid of mine |
+| Addison    |  Add a son |
+| Hailey     |  Hail, Hail hail the gangs all here |
+| Lily       |  Lily, Lily Marlene |
+| Kaitlyn    |  Cat, Cat limp |
+| Chloe      |  Claw, Clawy, Clueless, Low E |
+| Riley      |  Reel, Fishing reel |
+| Mia        |  Missing in action, Me first |
+| Ella       |  The one, El La |
+| Kaylee     |  K L M N, Sailing |
+| Sarah      |  Que Sara Sara, Say rah |
 
 ### Boy first names – Meaning – Mnemonics
 
-| Jacob       |  Yah cob, Corn cob shaped like a J –
-| Michael     |  My kill – My child – Microphone –
-| Ethan       |  A fan,
-| Joshua      |  Josh you all,
-| Daniel      |  Da kneel, To kneel,
-| Christopher |  Crucifix, Cross,
-| Anthony     |  A thorny, A thorn,
-| William     |  Will ham,
-| Matthew     |  Mat, Table mat, Doormat,
-| Andrew      |  And Draw, And drew picture,
-| Aiden       |  A den, A dent, A tooth,
-| Jayden      |  Jade, Jade dent,
-| Caden       |  Cave den, Cadence,
-| Jackson     |  Stonewall Jackson,
-| Logan       |  Hogan, small hut, Log, Log and log,
-| Nicholas    |  Nick yo lass, Nick yo ass,
-| Ryan        |  Iron, Wry ant,
-| Brayden     |  Bray den,
-| Gavin       |  Got vin,
-| Dylan       |  Dill pickles,
-| Lucas       |  Lucas light bulbs,
-| Caleb       |  Celebrity, Celeb,
-| Connor      |  Concept, Con no,
+| First name  | Mnemonic                             |
+| ----------- | ------------------------------------ |
+| Aiden       |  A den, A dent, A tooth |
+| Andrew      |  And Draw, And drew picture |
+| Anthony     |  A thorny, A thorn |
+| Brayden     |  Bray den |
+| Caden       |  Cave den, Cadence |
+| Caleb       |  Celebrity, Celeb |
+| Christopher |  Crucifix, Cross |
+| Connor      |  Concept, Con no |
+| Daniel      |  Da kneel, To kneel |
+| Dylan       |  Dill pickles |
+| Ethan       |  A fan |
+| Gavin       |  Got vin |
+| Jackson     |  Stonewall Jackson |
+| Jacob       |  Yah cob, Corn cob shaped like a J  |
+| Jayden      |  Jade, Jade dent |
+| Joshua      |  Josh you all |
+| Logan       |  Hogan, small hut, Log, Log and log |
+| Lucas       |  Lucas light bulbs |
+| Michael     |  My kill – My child – Microphone  |
+| Matthew     |  Mat, Table mat, Doormat |
+| Nicholas    |  Nick yo lass, Nick yo ass |
+| Ryan        |  Iron, Wry ant |
+| William     |  Will ham |
+
 
 ### Surnames – Meaning – Mnemonics
 
-| Aarons    | run on air, air runs
-| Abbott    | an abbott, I bought
-| Abrams    | rams, ape rams, brooms
-| Anderson  | hand and son
-| Atteberry | ate a berry
-| Smith     | Iron smith – Forge and hammer, Hammer, blacksmith,
-| Johnson   | Patronymic John – The baptist, Eagle, Eagle with baby,
-| Williams  | Will and desire – Helmet, Willful,
-| Jones     | Son of John – The baptist, Eagle, Eagle with baby,
-| Brown     | Color brown – Bronzed sun symbol,
-| Davis     | Beloved – Davis Cup,
-| Miller    | Operator of a mill – Windmill,
-| Wilson    | Son of Will – Sporting balls, golf ball, tennis ball,
-| Moore     | Marsh dweller – Meadow,
-| Taylor    | Occupation taylor – Taylor’s scissors,
+| Surname   | Mnemonic                                              |
+| --------- | ----------------------------------------------------- |
+| Aarons    | run on air, air runs   |
+| Abbott    | an abbott, I bought    |
+| Abrams    | rams, ape rams, brooms |
+| Anderson  | hand and son           |
+| Atteberry | ate a berry            |
+| Smith     | Iron smith – Forge and hammer, Hammer, blacksmith     |
+| Johnson   | Patronymic John – The baptist, Eagle, Eagle with baby |
+| Williams  | Will and desire – Helmet, Willful                     |
+| Jones     | Son of John – The baptist, Eagle, Eagle with baby     |
+| Brown     | Color brown – Bronzed sun symbol |
+| Davis     | Beloved – Davis Cup              |
+| Miller    | Operator of a mill – Windmill    |
+| Wilson    | Son of Will – Sporting balls, golf ball, tennis ball  |
+| Moore     | Marsh dweller – Meadow                |
+| Taylor    | Occupation taylor – Taylor’s scissors |
 
 
 ## Card stacks
