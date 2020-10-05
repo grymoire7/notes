@@ -672,15 +672,18 @@ these words into a visual and memorable story.
 | turtle | banjo | lime | wolf | pickup | moon | mover | change | ram | movie |
 
 | 327  | 950     | 28    | 841    | 971    | 69   | 39  | 93   | 7510   |
+| ---- | ------- | ----- | ------ | ------ | ---- | --- | ---- | ------ |
 | monk | pillows | knife | ferret | bucket | chop | mop | bomb | cletes |
 
 #### Places 51-100
 
-| 58   | 20   | 97  | 494    | 459     | 230    | 781     | 640  | 62   | 86
-| leaf | nose | pig | rubber | roll-up | gnomes | coiffed | jars | chin | fish
+| 58   | 20   | 97  | 494    | 459     | 230    | 781     | 640  | 62   | 86   |
+| ---- | ---- | --- | ------ | ------- | ------ | ------- | ---- | ---- | ---- |
+| leaf | nose | pig | rubber | roll-up | gnomes | coiffed | jars | chin | fish |
 
-| 20   | 8   | 99   | 86   | 280    | 3482     | 534   | 211     | 70   | 679
-| news | ivy | baby | fish | knives | morphine | elmer | haunted | case | chickpea
+| 20   | 8   | 99   | 86   | 280    | 3482     | 534   | 211     | 70   | 679      |
+| ---- | --- | ---- | ---- | ------ | -------- | ----- | ------- | ---- | -------- |
+| news | ivy | baby | fish | knives | morphine | elmer | haunted | case | chickpea |
 
 #### More
 8214808651328230664709384460955058223172535940812
