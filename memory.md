@@ -686,7 +686,9 @@ these words into a visual and memorable story.
 | news | ivy | baby | fish | knives | morphine | elmer | haunted | case | chickpea |
 
 #### The next 50
-8214808651328230664709384460955058223172535940812
+| 8214   | 80   | 8651328230664709384460955058223172535940812 |
+| ------ | ---- | ---- |
+| fender | fuzz | the rest... |
 
 #### References
 
