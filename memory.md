@@ -227,18 +227,18 @@ and unambiguous in my mind all the letters have animal mnemonics.
 | Letter | Animal                       |
 | ------ | ---------------------------- |
 | A      | Ant :ant:                    |
-| B      | Bee                          |
+| B      | Bee 🐝                       |
 | C      | Camel :camel:                |
-| D      | Deer                         |
+| D      | Deer 🦌                      |
 | E      | Elephant :elephant:          |
 | F      | Ferret                       |
-| G      | Giraffe                      |
-| H      | Hippo                        |
+| G      | Giraffe 🦒                   |
+| H      | Hippo 🦛                     |
 | I      | Ibex                         |
-| J      | Jellyfish                    |
-| K      | Kangaroo                     |
-| L      | LLama                        |
-| M      | Moose                        |
+| J      | Jellyfish 🪼                 |
+| K      | Kangaroo 🦘                  |
+| L      | LLama 🦙                     |
+| M      | Moose 🫎                     |
 | N      | Narwhal                      |
 | O      | Octopus :octopus:            |
 | P      | Penguin :penguin:            |
@@ -246,12 +246,12 @@ and unambiguous in my mind all the letters have animal mnemonics.
 | R      | Raccoon                      |
 | S      | Snail :snail:                |
 | T      | Turtle :turtle:              |
-| U      | Umbrellabird                 |
+| U      | Unicorn 🦄                   |
 | V      | Vulture                      |
 | W      | Walrus                       |
 | X      | Xerus (cape ground squirrel) |
 | Y      | Yak                          |
-| Z      | Zebra                        |
+| Z      | Zebra 🦓                     |
 
 Walking the dog one day as a sixth-grader a car plowed into a row of mail
 boxes right in front of me.  Later, a somewhat sceptical police officer got a 
@@ -318,7 +318,7 @@ the readability of the table. Please find a way to cope with it.
 |   23    | Norm Mackdonald | numbing      | gnome
 |   24    | Norman Rockwell | nairing      | Nero
 |   25    | Neville Longbottom | kneeling  | nail
-|   26    | Norm Schwarzkopf| nudging     | notch
+|   26    | Norm Schwarzkopf| nudging      | notch
 |   27    | Nicolas Cage    | nocking      | neck
 |   28    | Nate Forrest    | knifing      | knife
 |   29    | Natalie Portman | napping      | knob
@@ -342,7 +342,7 @@ the readability of the table. Please find a way to cope with it.
 |   45    | Ray Liotta      | rolling      | rail
 |   46    | :interrobang:   | wretching    | roach
 |   47    | Rupert Grint    | raking       | rug
-|   48    | :interrobang:   | raving       | roof
+|   48    | Ron Funches     | raving       | roof
 |   49    | Orlando Bloom   | ripping      | rabbi
 | ------- | --------------- | ------------ | -----------
 |   50    | Luke Skywalker  | lassoing     | lace
